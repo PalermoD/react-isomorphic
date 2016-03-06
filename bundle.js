@@ -19704,7 +19704,7 @@
 				return _react2.default.createElement(
 					'div',
 					null,
-					'Hello from App component'
+					'Votester'
 				);
 			}
 		}]);

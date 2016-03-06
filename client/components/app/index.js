@@ -3,7 +3,7 @@ import {} from './style.less';
 
 class App extends Component {
 	render(){
-		return <div>Hello from App component</div>;
+		return <div>Votester</div>;
 	}
 }
 
