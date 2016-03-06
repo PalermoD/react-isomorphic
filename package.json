@@ -23,6 +23,7 @@
     "webpack": "^1.12.14"
   },
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
   }
 }
